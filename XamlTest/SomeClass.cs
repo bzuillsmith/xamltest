@@ -3,7 +3,7 @@ using XamlTest.Controls;
 
 namespace XamlTest.Services
 {
-    class NavigationService
+    class SomeClass
     {
         public void SomeFunction()
         {
